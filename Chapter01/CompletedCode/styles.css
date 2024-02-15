@@ -4,11 +4,11 @@ body {
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+  color: orange;
 }
 .content-area {
   margin: 30px;
   color: orange;
-  text-align: center;
 }
 .input-area {
   margin: 25px;
