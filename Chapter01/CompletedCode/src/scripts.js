@@ -11,8 +11,9 @@ class ToDoClass {
 
       this.loadTasks();
       this.addEventListeners();
+      console.log("hello world");
     }
-
+  
     addEventListeners() {
 
       // Add Task
